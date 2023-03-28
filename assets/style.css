@@ -8,7 +8,7 @@
 /* Reset CSS */
 * {
 	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
+	-moz-box-sizing: border-box;-
 	box-sizing: border-box;
 }
 html, body, div, span, applet, object, iframe,
@@ -297,4 +297,14 @@ footer div {
 	#contact > article {
 		flex: 2;
 	}
+}
+
+/* AJOUTE pour chacher les flêches du slider tant que le script JS n'est pas lancé */
+.hidden {
+	visibility: hidden
+}
+
+.arrow,
+.dot {	
+	cursor: pointer;
 }
