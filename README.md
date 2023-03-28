@@ -14,3 +14,11 @@ Parcours Developpeur Wordpress (OpenClassrooms )
 
 6 - Nettoyage du code (code inutil retiré) et ajout d'une sécurité quand on clic à côté des points.
 
+7 - Ajout une class pour que les flèches du slider soient cachées tant que le script JS n'est pas lancé. Ce dernier au lancement, ira retirer cette class.
+
+8 - Ajout d'un pointer de souri différent au passage sur les flèches et les dots + ajout de title sur les même éléments.
+
+9 - Ajout d'un contrôl au lancement du script pour qu'il ne se lance qu'après la mise en place de tout le DOM.
+
+10 - Suppression des sliders que j'avais rajouté en plus dans le tableau pour mes tests.
+
