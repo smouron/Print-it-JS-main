@@ -301,7 +301,7 @@ footer div {
 
 /* AJOUTE pour chacher les flêches du slider tant que le script JS n'est pas lancé */
 .hidden {
-	visibility: hidden
+	visibility: hidden;
 }
 
 .arrow,
