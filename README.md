@@ -1,6 +1,9 @@
 # Print-it-JS-main
-Projet 8 - Premiers pas sur le langage JavaScipt
+
+**Projet 8 - Premiers pas sur le langage JavaScipt**
 Parcours Developpeur Wordpress (OpenClassrooms )
+
+## Objectifs
 
 1 - Modification du HTML pour ajouter les flèches et une zone pour les points du slider avec utilisation des class CSS qui ont été fournies
 
@@ -22,3 +25,11 @@ Parcours Developpeur Wordpress (OpenClassrooms )
 
 10 - Suppression des sliders que j'avais rajouté en plus dans le tableau pour mes tests.
 
+## Réalisation
+
+![Print-it JS](/assets/images/computer_print_it.png)
+
+Le site "Print-it JS" final en ligne :
+
+- [avec Hotsinger](https://smouron.github.io/Print-it-JS-main/)
+- [avec GitHub](https://stephane-mouron.fr/print-it/)
