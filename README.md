@@ -1,7 +1,6 @@
 # Print-it-JS-main
 
-**Projet 8 - Premiers pas sur le langage JavaScipt**
-Parcours Developpeur Wordpress (OpenClassrooms )
+**Projet 8 - Premiers pas sur le langage JavaScipt** (parcours Developpeur Wordpress avec OpenClassrooms )
 
 ## Objectifs
 
