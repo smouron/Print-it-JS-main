@@ -1,5 +1,7 @@
 # Print-it-JS-main
 
+![Print-it-JS](./Banner-Print-it.png)
+
 **Projet 8 - Premiers pas sur le langage JavaScipt** (parcours Developpeur Wordpress avec OpenClassrooms )
 
 ## Objectifs
