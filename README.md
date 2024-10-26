@@ -32,5 +32,10 @@
 
 Le site "Print-it JS" final en ligne :
 
-- [avec Hotsinger](https://smouron.github.io/Print-it-JS-main/)
-- [avec GitHub](https://stephane-mouron.fr/print-it/)
+- [hébergement Hotsinger](https://exercices.stephane-mouron.com/print-it/)
+- [hébergement GitHub](https://smouron.github.io/Print-it-JS-main/)
+
+## Modifications apportées au projet original
+- Mise en place du responsive.
+- Ajout d'effets sur les boutons.
+- Ajout dans le header et le pied de page pour indiquer que c'est un exercice
